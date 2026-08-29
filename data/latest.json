@@ -1,0 +1,176 @@
+{
+  "sport": "football",
+  "league": "college-football",
+  "date": "20260829",
+  "count": 8,
+  "games": [
+    {
+      "id": "401856766",
+      "name": "North Carolina Tar Heels at TCU Horned Frogs",
+      "shortName": "UNC VS TCU",
+      "date": "2026-08-29T16:00Z",
+      "state": "in",
+      "status": "End of 1st",
+      "completed": false,
+      "home": {
+        "id": "2628",
+        "abbr": "TCU",
+        "name": "TCU Horned Frogs",
+        "score": "10"
+      },
+      "away": {
+        "id": "153",
+        "abbr": "UNC",
+        "name": "North Carolina Tar Heels",
+        "score": "10"
+      }
+    },
+    {
+      "id": "401864494",
+      "name": "San José State Spartans at USC Trojans",
+      "shortName": "SJSU @ USC",
+      "date": "2026-08-29T19:00Z",
+      "state": "pre",
+      "status": "8/29 - 3:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "30",
+        "abbr": "USC",
+        "name": "USC Trojans",
+        "score": "0"
+      },
+      "away": {
+        "id": "23",
+        "abbr": "SJSU",
+        "name": "San José State Spartans",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858202",
+      "name": "NC State Wolfpack at Virginia Cavaliers",
+      "shortName": "NCSU @ UVA",
+      "date": "2026-08-29T19:30Z",
+      "state": "pre",
+      "status": "8/29 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "258",
+        "abbr": "UVA",
+        "name": "Virginia Cavaliers",
+        "score": "0"
+      },
+      "away": {
+        "id": "152",
+        "abbr": "NCSU",
+        "name": "NC State Wolfpack",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864577",
+      "name": "Jacksonville State Gamecocks at North Dakota State Bison",
+      "shortName": "JVST @ NDSU",
+      "date": "2026-08-29T21:30Z",
+      "state": "pre",
+      "status": "8/29 - 5:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2449",
+        "abbr": "NDSU",
+        "name": "North Dakota State Bison",
+        "score": "0"
+      },
+      "away": {
+        "id": "55",
+        "abbr": "JVST",
+        "name": "Jacksonville State Gamecocks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401866408",
+      "name": "Sacramento State Hornets at Eastern Michigan Eagles",
+      "shortName": "SAC @ EMU",
+      "date": "2026-08-29T22:30Z",
+      "state": "pre",
+      "status": "8/29 - 6:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2199",
+        "abbr": "EMU",
+        "name": "Eastern Michigan Eagles",
+        "score": "0"
+      },
+      "away": {
+        "id": "16",
+        "abbr": "SAC",
+        "name": "Sacramento State Hornets",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858201",
+      "name": "Hawai'i Rainbow Warriors at Stanford Cardinal",
+      "shortName": "HAW @ STAN",
+      "date": "2026-08-29T23:00Z",
+      "state": "pre",
+      "status": "8/29 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "24",
+        "abbr": "STAN",
+        "name": "Stanford Cardinal",
+        "score": "0"
+      },
+      "away": {
+        "id": "62",
+        "abbr": "HAW",
+        "name": "Hawai'i Rainbow Warriors",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864570",
+      "name": "New Mexico State Aggies at Florida State Seminoles",
+      "shortName": "NMSU @ FSU",
+      "date": "2026-08-29T23:00Z",
+      "state": "pre",
+      "status": "8/29 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "52",
+        "abbr": "FSU",
+        "name": "Florida State Seminoles",
+        "score": "0"
+      },
+      "away": {
+        "id": "166",
+        "abbr": "NMSU",
+        "name": "New Mexico State Aggies",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401862693",
+      "name": "Memphis Tigers at UNLV Rebels",
+      "shortName": "MEM @ UNLV",
+      "date": "2026-08-30T02:00Z",
+      "state": "pre",
+      "status": "8/29 - 10:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2439",
+        "abbr": "UNLV",
+        "name": "UNLV Rebels",
+        "score": "0"
+      },
+      "away": {
+        "id": "235",
+        "abbr": "MEM",
+        "name": "Memphis Tigers",
+        "score": "0"
+      }
+    }
+  ]
+}
