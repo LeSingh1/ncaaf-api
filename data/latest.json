@@ -1,69 +1,27 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20260906",
-  "count": 3,
+  "date": "20260907",
+  "count": 1,
   "games": [
     {
-      "id": "401858437",
-      "name": "Washington State Cougars at Washington Huskies",
-      "shortName": "WSU @ WASH",
-      "date": "2026-09-06T20:00Z",
+      "id": "401858212",
+      "name": "SMU Mustangs at Florida State Seminoles",
+      "shortName": "SMU @ FSU",
+      "date": "2026-09-07T23:30Z",
       "state": "pre",
-      "status": "9/6 - 4:00 PM EDT",
+      "status": "9/7 - 7:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "264",
-        "abbr": "WASH",
-        "name": "Washington Huskies",
+        "id": "52",
+        "abbr": "FSU",
+        "name": "Florida State Seminoles",
         "score": "0"
       },
       "away": {
-        "id": "265",
-        "abbr": "WSU",
-        "name": "Washington State Cougars",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401858438",
-      "name": "Wisconsin Badgers at Notre Dame Fighting Irish",
-      "shortName": "WIS VS ND",
-      "date": "2026-09-06T23:30Z",
-      "state": "pre",
-      "status": "9/6 - 7:30 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "87",
-        "abbr": "ND",
-        "name": "Notre Dame Fighting Irish",
-        "score": "0"
-      },
-      "away": {
-        "id": "275",
-        "abbr": "WIS",
-        "name": "Wisconsin Badgers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401856661",
-      "name": "Louisville Cardinals at Ole Miss Rebels",
-      "shortName": "LOU VS MISS",
-      "date": "2026-09-06T23:30Z",
-      "state": "pre",
-      "status": "9/6 - 7:30 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "145",
-        "abbr": "MISS",
-        "name": "Ole Miss Rebels",
-        "score": "0"
-      },
-      "away": {
-        "id": "97",
-        "abbr": "LOU",
-        "name": "Louisville Cardinals",
+        "id": "2567",
+        "abbr": "SMU",
+        "name": "SMU Mustangs",
         "score": "0"
       }
     }
