@@ -1,27 +1,27 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20260907",
+  "date": "20260910",
   "count": 1,
   "games": [
     {
-      "id": "401858212",
-      "name": "SMU Mustangs at Florida State Seminoles",
-      "shortName": "SMU @ FSU",
-      "date": "2026-09-07T23:30Z",
+      "id": "401858213",
+      "name": "Florida A&M Rattlers at Miami Hurricanes",
+      "shortName": "FAMU @ MIA",
+      "date": "2026-09-11T00:00Z",
       "state": "pre",
-      "status": "9/7 - 7:30 PM EDT",
+      "status": "9/10 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "52",
-        "abbr": "FSU",
-        "name": "Florida State Seminoles",
+        "id": "2390",
+        "abbr": "MIA",
+        "name": "Miami Hurricanes",
         "score": "0"
       },
       "away": {
-        "id": "2567",
-        "abbr": "SMU",
-        "name": "SMU Mustangs",
+        "id": "50",
+        "abbr": "FAMU",
+        "name": "Florida A&M Rattlers",
         "score": "0"
       }
     }
