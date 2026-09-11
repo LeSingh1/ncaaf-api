@@ -1,27 +1,111 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20260910",
-  "count": 1,
+  "date": "20260911",
+  "count": 5,
   "games": [
     {
-      "id": "401858213",
-      "name": "Florida A&M Rattlers at Miami Hurricanes",
-      "shortName": "FAMU @ MIA",
-      "date": "2026-09-11T00:00Z",
+      "id": "401858215",
+      "name": "Villanova Wildcats at Louisville Cardinals",
+      "shortName": "VILL @ LOU",
+      "date": "2026-09-11T23:00Z",
       "state": "pre",
-      "status": "9/10 - 8:00 PM EDT",
+      "status": "9/11 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "2390",
-        "abbr": "MIA",
-        "name": "Miami Hurricanes",
+        "id": "97",
+        "abbr": "LOU",
+        "name": "Louisville Cardinals",
         "score": "0"
       },
       "away": {
-        "id": "50",
-        "abbr": "FAMU",
-        "name": "Florida A&M Rattlers",
+        "id": "222",
+        "abbr": "VILL",
+        "name": "Villanova Wildcats",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858220",
+      "name": "Norfolk State Spartans at Virginia Cavaliers",
+      "shortName": "NORF @ UVA",
+      "date": "2026-09-11T23:00Z",
+      "state": "pre",
+      "status": "9/11 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "258",
+        "abbr": "UVA",
+        "name": "Virginia Cavaliers",
+        "score": "0"
+      },
+      "away": {
+        "id": "2450",
+        "abbr": "NORF",
+        "name": "Norfolk State Spartans",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858222",
+      "name": "Richmond Spiders at NC State Wolfpack",
+      "shortName": "RICH @ NCSU",
+      "date": "2026-09-11T23:00Z",
+      "state": "pre",
+      "status": "9/11 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "152",
+        "abbr": "NCSU",
+        "name": "NC State Wolfpack",
+        "score": "0"
+      },
+      "away": {
+        "id": "257",
+        "abbr": "RICH",
+        "name": "Richmond Spiders",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858214",
+      "name": "Rutgers Scarlet Knights at Boston College Eagles",
+      "shortName": "RUTG @ BC",
+      "date": "2026-09-11T23:30Z",
+      "state": "pre",
+      "status": "9/11 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "103",
+        "abbr": "BC",
+        "name": "Boston College Eagles",
+        "score": "0"
+      },
+      "away": {
+        "id": "164",
+        "abbr": "RUTG",
+        "name": "Rutgers Scarlet Knights",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856678",
+      "name": "Missouri Tigers at Kansas Jayhawks",
+      "shortName": "MIZ @ KU",
+      "date": "2026-09-12T00:00Z",
+      "state": "pre",
+      "status": "9/11 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2305",
+        "abbr": "KU",
+        "name": "Kansas Jayhawks",
+        "score": "0"
+      },
+      "away": {
+        "id": "142",
+        "abbr": "MIZ",
+        "name": "Missouri Tigers",
         "score": "0"
       }
     }
