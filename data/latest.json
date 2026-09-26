@@ -1,111 +1,1371 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20260925",
-  "count": 5,
+  "date": "20260926",
+  "count": 65,
   "games": [
     {
-      "id": "401862779",
-      "name": "Army Black Knights at Temple Owls",
-      "shortName": "ARMY @ TEM",
-      "date": "2026-09-25T20:00Z",
-      "state": "pre",
-      "status": "9/25 - 4:00 PM EDT",
+      "id": "401856704",
+      "name": "Texas Longhorns at Tennessee Volunteers",
+      "shortName": "TEX @ TENN",
+      "date": "2026-09-26T16:00Z",
+      "state": "in",
+      "status": "9:54 - 1st",
       "completed": false,
       "home": {
-        "id": "218",
-        "abbr": "TEM",
-        "name": "Temple Owls",
+        "id": "2633",
+        "abbr": "TENN",
+        "name": "Tennessee Volunteers",
         "score": "0"
       },
       "away": {
-        "id": "349",
-        "abbr": "ARMY",
-        "name": "Army Black Knights",
+        "id": "251",
+        "abbr": "TEX",
+        "name": "Texas Longhorns",
+        "score": "7"
+      }
+    },
+    {
+      "id": "401858465",
+      "name": "Illinois Fighting Illini at Ohio State Buckeyes",
+      "shortName": "ILL @ OSU",
+      "date": "2026-09-26T16:00Z",
+      "state": "in",
+      "status": "9:30 - 1st",
+      "completed": false,
+      "home": {
+        "id": "194",
+        "abbr": "OSU",
+        "name": "Ohio State Buckeyes",
+        "score": "7"
+      },
+      "away": {
+        "id": "356",
+        "abbr": "ILL",
+        "name": "Illinois Fighting Illini",
         "score": "0"
       }
     },
     {
-      "id": "401858468",
-      "name": "Howard Bison at Rutgers Scarlet Knights",
-      "shortName": "HOW @ RUTG",
-      "date": "2026-09-25T23:00Z",
-      "state": "pre",
-      "status": "9/25 - 7:00 PM EDT",
+      "id": "401856805",
+      "name": "Sam Houston Bearkats at Texas Tech Red Raiders",
+      "shortName": "SHSU @ TTU",
+      "date": "2026-09-26T16:00Z",
+      "state": "in",
+      "status": "7:24 - 1st",
       "completed": false,
       "home": {
-        "id": "164",
-        "abbr": "RUTG",
-        "name": "Rutgers Scarlet Knights",
+        "id": "2641",
+        "abbr": "TTU",
+        "name": "Texas Tech Red Raiders",
         "score": "0"
       },
       "away": {
-        "id": "47",
-        "abbr": "HOW",
-        "name": "Howard Bison",
+        "id": "2534",
+        "abbr": "SHSU",
+        "name": "Sam Houston Bearkats",
         "score": "0"
       }
     },
     {
-      "id": "401862778",
-      "name": "Navy Midshipmen at UAB Blazers",
-      "shortName": "NAVY @ UAB",
-      "date": "2026-09-25T23:00Z",
-      "state": "pre",
-      "status": "9/25 - 7:00 PM EDT",
+      "id": "401858243",
+      "name": "Wake Forest Demon Deacons at Louisville Cardinals",
+      "shortName": "WAKE @ LOU",
+      "date": "2026-09-26T16:00Z",
+      "state": "in",
+      "status": "7:39 - 1st",
       "completed": false,
       "home": {
-        "id": "5",
-        "abbr": "UAB",
-        "name": "UAB Blazers",
+        "id": "97",
+        "abbr": "LOU",
+        "name": "Louisville Cardinals",
         "score": "0"
       },
       "away": {
-        "id": "2426",
-        "abbr": "NAVY",
-        "name": "Navy Midshipmen",
+        "id": "154",
+        "abbr": "WAKE",
+        "name": "Wake Forest Demon Deacons",
         "score": "0"
       }
     },
     {
-      "id": "401858461",
-      "name": "Northwestern Wildcats at Indiana Hoosiers",
-      "shortName": "NU @ IU",
-      "date": "2026-09-26T00:00Z",
-      "state": "pre",
-      "status": "9/25 - 8:00 PM EDT",
+      "id": "401856813",
+      "name": "Colorado Buffaloes at Baylor Bears",
+      "shortName": "COLO @ BAY",
+      "date": "2026-09-26T16:00Z",
+      "state": "in",
+      "status": "4:01 - 1st",
       "completed": false,
       "home": {
-        "id": "84",
-        "abbr": "IU",
-        "name": "Indiana Hoosiers",
+        "id": "239",
+        "abbr": "BAY",
+        "name": "Baylor Bears",
         "score": "0"
       },
       "away": {
-        "id": "77",
-        "abbr": "NU",
-        "name": "Northwestern Wildcats",
+        "id": "38",
+        "abbr": "COLO",
+        "name": "Colorado Buffaloes",
         "score": "0"
       }
     },
     {
-      "id": "401858234",
-      "name": "Clemson Tigers at California Golden Bears",
-      "shortName": "CLEM @ CAL",
-      "date": "2026-09-26T02:30Z",
-      "state": "pre",
-      "status": "9/25 - 10:30 PM EDT",
+      "id": "401858236",
+      "name": "Bucknell Bison at Pittsburgh Panthers",
+      "shortName": "BUCK @ PITT",
+      "date": "2026-09-26T16:00Z",
+      "state": "in",
+      "status": "7:16 - 1st",
       "completed": false,
       "home": {
-        "id": "25",
-        "abbr": "CAL",
-        "name": "California Golden Bears",
+        "id": "221",
+        "abbr": "PITT",
+        "name": "Pittsburgh Panthers",
+        "score": "7"
+      },
+      "away": {
+        "id": "2083",
+        "abbr": "BUCK",
+        "name": "Bucknell Bison",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858242",
+      "name": "Virginia Tech Hokies at Boston College Eagles",
+      "shortName": "VT @ BC",
+      "date": "2026-09-26T16:00Z",
+      "state": "in",
+      "status": "4:58 - 1st",
+      "completed": false,
+      "home": {
+        "id": "103",
+        "abbr": "BC",
+        "name": "Boston College Eagles",
         "score": "0"
       },
       "away": {
-        "id": "228",
-        "abbr": "CLEM",
-        "name": "Clemson Tigers",
+        "id": "259",
+        "abbr": "VT",
+        "name": "Virginia Tech Hokies",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401860893",
+      "name": "San Diego State Aztecs at Toledo Rockets",
+      "shortName": "SDSU @ TOL",
+      "date": "2026-09-26T16:00Z",
+      "state": "in",
+      "status": "7:09 - 1st",
+      "completed": false,
+      "home": {
+        "id": "2649",
+        "abbr": "TOL",
+        "name": "Toledo Rockets",
+        "score": "7"
+      },
+      "away": {
+        "id": "21",
+        "abbr": "SDSU",
+        "name": "San Diego State Aztecs",
+        "score": "3"
+      }
+    },
+    {
+      "id": "401860896",
+      "name": "Colorado State Rams at UTSA Roadrunners",
+      "shortName": "CSU @ UTSA",
+      "date": "2026-09-26T16:00Z",
+      "state": "in",
+      "status": "10:14 - 1st",
+      "completed": false,
+      "home": {
+        "id": "2636",
+        "abbr": "UTSA",
+        "name": "UTSA Roadrunners",
+        "score": "0"
+      },
+      "away": {
+        "id": "36",
+        "abbr": "CSU",
+        "name": "Colorado State Rams",
+        "score": "14"
+      }
+    },
+    {
+      "id": "401864512",
+      "name": "UNLV Rebels at Akron Zips",
+      "shortName": "UNLV @ AKR",
+      "date": "2026-09-26T16:00Z",
+      "state": "in",
+      "status": "4:51 - 1st",
+      "completed": false,
+      "home": {
+        "id": "2006",
+        "abbr": "AKR",
+        "name": "Akron Zips",
+        "score": "7"
+      },
+      "away": {
+        "id": "2439",
+        "abbr": "UNLV",
+        "name": "UNLV Rebels",
+        "score": "7"
+      }
+    },
+    {
+      "id": "401866425",
+      "name": "Ball State Cardinals at Kent State Golden Flashes",
+      "shortName": "BALL @ KENT",
+      "date": "2026-09-26T16:00Z",
+      "state": "in",
+      "status": "4:15 - 1st",
+      "completed": false,
+      "home": {
+        "id": "2309",
+        "abbr": "KENT",
+        "name": "Kent State Golden Flashes",
+        "score": "7"
+      },
+      "away": {
+        "id": "2050",
+        "abbr": "BALL",
+        "name": "Ball State Cardinals",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864576",
+      "name": "South Alabama Jaguars at Kentucky Wildcats",
+      "shortName": "USA @ UK",
+      "date": "2026-09-26T16:45Z",
+      "state": "pre",
+      "status": "9/26 - 12:45 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "96",
+        "abbr": "UK",
+        "name": "Kentucky Wildcats",
+        "score": "0"
+      },
+      "away": {
+        "id": "6",
+        "abbr": "USA",
+        "name": "South Alabama Jaguars",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401866427",
+      "name": "Lindenwood Lions at Eastern Michigan Eagles",
+      "shortName": "LIN @ EMU",
+      "date": "2026-09-26T17:00Z",
+      "state": "pre",
+      "status": "9/26 - 1:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2199",
+        "abbr": "EMU",
+        "name": "Eastern Michigan Eagles",
+        "score": "0"
+      },
+      "away": {
+        "id": "2815",
+        "abbr": "LIN",
+        "name": "Lindenwood Lions",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858462",
+      "name": "UCLA Bruins at Maryland Terrapins",
+      "shortName": "UCLA @ MD",
+      "date": "2026-09-26T17:30Z",
+      "state": "pre",
+      "status": "9/26 - 1:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "120",
+        "abbr": "MD",
+        "name": "Maryland Terrapins",
+        "score": "0"
+      },
+      "away": {
+        "id": "26",
+        "abbr": "UCLA",
+        "name": "UCLA Bruins",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858467",
+      "name": "Notre Dame Fighting Irish at Purdue Boilermakers",
+      "shortName": "ND @ PUR",
+      "date": "2026-09-26T18:00Z",
+      "state": "pre",
+      "status": "9/26 - 2:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2509",
+        "abbr": "PUR",
+        "name": "Purdue Boilermakers",
+        "score": "0"
+      },
+      "away": {
+        "id": "87",
+        "abbr": "ND",
+        "name": "Notre Dame Fighting Irish",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864511",
+      "name": "Northern Illinois Huskies at Georgia State Panthers",
+      "shortName": "NIU @ GAST",
+      "date": "2026-09-26T18:00Z",
+      "state": "pre",
+      "status": "9/26 - 2:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2247",
+        "abbr": "GAST",
+        "name": "Georgia State Panthers",
+        "score": "0"
+      },
+      "away": {
+        "id": "2459",
+        "abbr": "NIU",
+        "name": "Northern Illinois Huskies",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858237",
+      "name": "Central Arkansas Bears at Florida State Seminoles",
+      "shortName": "CARK @ FSU",
+      "date": "2026-09-26T19:00Z",
+      "state": "pre",
+      "status": "9/26 - 3:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "52",
+        "abbr": "FSU",
+        "name": "Florida State Seminoles",
+        "score": "0"
+      },
+      "away": {
+        "id": "2110",
+        "abbr": "CARK",
+        "name": "Central Arkansas Bears",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864510",
+      "name": "Hawai'i Rainbow Warriors at Wyoming Cowboys",
+      "shortName": "HAW @ WYO",
+      "date": "2026-09-26T19:00Z",
+      "state": "pre",
+      "status": "9/26 - 3:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2751",
+        "abbr": "WYO",
+        "name": "Wyoming Cowboys",
+        "score": "0"
+      },
+      "away": {
+        "id": "62",
+        "abbr": "HAW",
+        "name": "Hawai'i Rainbow Warriors",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856700",
+      "name": "Oklahoma Sooners at Georgia Bulldogs",
+      "shortName": "OU @ UGA",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "61",
+        "abbr": "UGA",
+        "name": "Georgia Bulldogs",
+        "score": "0"
+      },
+      "away": {
+        "id": "201",
+        "abbr": "OU",
+        "name": "Oklahoma Sooners",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856699",
+      "name": "Ole Miss Rebels at Florida Gators",
+      "shortName": "MISS @ FLA",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "57",
+        "abbr": "FLA",
+        "name": "Florida Gators",
+        "score": "0"
+      },
+      "away": {
+        "id": "145",
+        "abbr": "MISS",
+        "name": "Ole Miss Rebels",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856816",
+      "name": "Utah Utes at Iowa State Cyclones",
+      "shortName": "UTAH @ ISU",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "66",
+        "abbr": "ISU",
+        "name": "Iowa State Cyclones",
+        "score": "0"
+      },
+      "away": {
+        "id": "254",
+        "abbr": "UTAH",
+        "name": "Utah Utes",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858463",
+      "name": "Iowa Hawkeyes at Michigan Wolverines",
+      "shortName": "IOWA @ MICH",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "130",
+        "abbr": "MICH",
+        "name": "Michigan Wolverines",
+        "score": "0"
+      },
+      "away": {
+        "id": "2294",
+        "abbr": "IOWA",
+        "name": "Iowa Hawkeyes",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856815",
+      "name": "TCU Horned Frogs at UCF Knights",
+      "shortName": "TCU @ UCF",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2116",
+        "abbr": "UCF",
+        "name": "UCF Knights",
+        "score": "0"
+      },
+      "away": {
+        "id": "2628",
+        "abbr": "TCU",
+        "name": "TCU Horned Frogs",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858244",
+      "name": "William & Mary Tribe at Duke Blue Devils",
+      "shortName": "W&M @ DUKE",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "150",
+        "abbr": "DUKE",
+        "name": "Duke Blue Devils",
+        "score": "0"
+      },
+      "away": {
+        "id": "2729",
+        "abbr": "W&M",
+        "name": "William & Mary Tribe",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401860897",
+      "name": "Boise State Broncos at Western Michigan Broncos",
+      "shortName": "BOIS @ WMU",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2711",
+        "abbr": "WMU",
+        "name": "Western Michigan Broncos",
+        "score": "0"
+      },
+      "away": {
+        "id": "68",
+        "abbr": "BOIS",
+        "name": "Boise State Broncos",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401861970",
+      "name": "UConn Huskies at Miami (OH) RedHawks",
+      "shortName": "CONN @ M-OH",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "193",
+        "abbr": "M-OH",
+        "name": "Miami (OH) RedHawks",
+        "score": "0"
+      },
+      "away": {
+        "id": "41",
+        "abbr": "CONN",
+        "name": "UConn Huskies",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864579",
+      "name": "New Mexico Lobos at New Mexico State Aggies",
+      "shortName": "UNM @ NMSU",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "166",
+        "abbr": "NMSU",
+        "name": "New Mexico State Aggies",
+        "score": "0"
+      },
+      "away": {
+        "id": "167",
+        "abbr": "UNM",
+        "name": "New Mexico Lobos",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401866426",
+      "name": "Robert Morris Colonials at Buffalo Bulls",
+      "shortName": "RMU @ BUFF",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2084",
+        "abbr": "BUFF",
+        "name": "Buffalo Bulls",
+        "score": "0"
+      },
+      "away": {
+        "id": "2523",
+        "abbr": "RMU",
+        "name": "Robert Morris Colonials",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401866428",
+      "name": "Stonehill Skyhawks at Ohio Bobcats",
+      "shortName": "STO @ OHIO",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "195",
+        "abbr": "OHIO",
+        "name": "Ohio Bobcats",
+        "score": "0"
+      },
+      "away": {
+        "id": "284",
+        "abbr": "STO",
+        "name": "Stonehill Skyhawks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401868188",
+      "name": "Gardner-Webb Runnin' Bulldogs at Marshall Thundering Herd",
+      "shortName": "GWEB @ MRSH",
+      "date": "2026-09-26T19:30Z",
+      "state": "pre",
+      "status": "9/26 - 3:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "276",
+        "abbr": "MRSH",
+        "name": "Marshall Thundering Herd",
+        "score": "0"
+      },
+      "away": {
+        "id": "2241",
+        "abbr": "GWEB",
+        "name": "Gardner-Webb Runnin' Bulldogs",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856806",
+      "name": "Houston Cougars at Georgia Southern Eagles",
+      "shortName": "HOU @ GASO",
+      "date": "2026-09-26T20:00Z",
+      "state": "pre",
+      "status": "9/26 - 4:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "290",
+        "abbr": "GASO",
+        "name": "Georgia Southern Eagles",
+        "score": "0"
+      },
+      "away": {
+        "id": "248",
+        "abbr": "HOU",
+        "name": "Houston Cougars",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401862781",
+      "name": "North Carolina Central Eagles at East Carolina Pirates",
+      "shortName": "NCCU @ ECU",
+      "date": "2026-09-26T20:00Z",
+      "state": "pre",
+      "status": "9/26 - 4:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "151",
+        "abbr": "ECU",
+        "name": "East Carolina Pirates",
+        "score": "0"
+      },
+      "away": {
+        "id": "2428",
+        "abbr": "NCCU",
+        "name": "North Carolina Central Eagles",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856698",
+      "name": "Vanderbilt Commodores at Auburn Tigers",
+      "shortName": "VAN @ AUB",
+      "date": "2026-09-26T20:15Z",
+      "state": "pre",
+      "status": "9/26 - 4:15 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2",
+        "abbr": "AUB",
+        "name": "Auburn Tigers",
+        "score": "0"
+      },
+      "away": {
+        "id": "238",
+        "abbr": "VAN",
+        "name": "Vanderbilt Commodores",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858466",
+      "name": "Wisconsin Badgers at Penn State Nittany Lions",
+      "shortName": "WIS @ PSU",
+      "date": "2026-09-26T21:00Z",
+      "state": "pre",
+      "status": "9/26 - 5:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "213",
+        "abbr": "PSU",
+        "name": "Penn State Nittany Lions",
+        "score": "0"
+      },
+      "away": {
+        "id": "275",
+        "abbr": "WIS",
+        "name": "Wisconsin Badgers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858464",
+      "name": "Nebraska Cornhuskers at Michigan State Spartans",
+      "shortName": "NEB @ MSU",
+      "date": "2026-09-26T21:00Z",
+      "state": "pre",
+      "status": "9/26 - 5:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "127",
+        "abbr": "MSU",
+        "name": "Michigan State Spartans",
+        "score": "0"
+      },
+      "away": {
+        "id": "158",
+        "abbr": "NEB",
+        "name": "Nebraska Cornhuskers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401862785",
+      "name": "South Florida Bulls at Bowling Green Falcons",
+      "shortName": "USF @ BGSU",
+      "date": "2026-09-26T21:00Z",
+      "state": "pre",
+      "status": "9/26 - 5:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "189",
+        "abbr": "BGSU",
+        "name": "Bowling Green Falcons",
+        "score": "0"
+      },
+      "away": {
+        "id": "58",
+        "abbr": "USF",
+        "name": "South Florida Bulls",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858239",
+      "name": "Delaware Blue Hens at Virginia Cavaliers",
+      "shortName": "DEL @ UVA",
+      "date": "2026-09-26T22:00Z",
+      "state": "pre",
+      "status": "9/26 - 6:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "258",
+        "abbr": "UVA",
+        "name": "Virginia Cavaliers",
+        "score": "0"
+      },
+      "away": {
+        "id": "48",
+        "abbr": "DEL",
+        "name": "Delaware Blue Hens",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401860892",
+      "name": "Incarnate Word Cardinals at Texas State Bobcats",
+      "shortName": "UIW @ TXST",
+      "date": "2026-09-26T22:00Z",
+      "state": "pre",
+      "status": "9/26 - 6:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "326",
+        "abbr": "TXST",
+        "name": "Texas State Bobcats",
+        "score": "0"
+      },
+      "away": {
+        "id": "2916",
+        "abbr": "UIW",
+        "name": "Incarnate Word Cardinals",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401867909",
+      "name": "Long Island University Sharks at Florida International Panthers",
+      "shortName": "LIU @ FIU",
+      "date": "2026-09-26T22:00Z",
+      "state": "pre",
+      "status": "9/26 - 6:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2229",
+        "abbr": "FIU",
+        "name": "Florida International Panthers",
+        "score": "0"
+      },
+      "away": {
+        "id": "2341",
+        "abbr": "LIU",
+        "name": "Long Island University Sharks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401869961",
+      "name": "James Madison Dukes at Old Dominion Monarchs",
+      "shortName": "JMU @ ODU",
+      "date": "2026-09-26T22:00Z",
+      "state": "pre",
+      "status": "9/26 - 6:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "295",
+        "abbr": "ODU",
+        "name": "Old Dominion Monarchs",
+        "score": "0"
+      },
+      "away": {
+        "id": "256",
+        "abbr": "JMU",
+        "name": "James Madison Dukes",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858238",
+      "name": "Central Michigan Chippewas at Miami Hurricanes",
+      "shortName": "CMU @ MIA",
+      "date": "2026-09-26T22:30Z",
+      "state": "pre",
+      "status": "9/26 - 6:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2390",
+        "abbr": "MIA",
+        "name": "Miami Hurricanes",
+        "score": "0"
+      },
+      "away": {
+        "id": "2117",
+        "abbr": "CMU",
+        "name": "Central Michigan Chippewas",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401862780",
+      "name": "Louisiana Ragin' Cajuns at Charlotte 49ers",
+      "shortName": "UL @ CLT",
+      "date": "2026-09-26T22:30Z",
+      "state": "pre",
+      "status": "9/26 - 6:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2429",
+        "abbr": "CLT",
+        "name": "Charlotte 49ers",
+        "score": "0"
+      },
+      "away": {
+        "id": "309",
+        "abbr": "UL",
+        "name": "Louisiana Ragin' Cajuns",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856696",
+      "name": "South Carolina Gamecocks at Alabama Crimson Tide",
+      "shortName": "SC @ ALA",
+      "date": "2026-09-26T23:00Z",
+      "state": "pre",
+      "status": "9/26 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "333",
+        "abbr": "ALA",
+        "name": "Alabama Crimson Tide",
+        "score": "0"
+      },
+      "away": {
+        "id": "2579",
+        "abbr": "SC",
+        "name": "South Carolina Gamecocks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856814",
+      "name": "Kansas State Wildcats at Cincinnati Bearcats",
+      "shortName": "KSU @ CIN",
+      "date": "2026-09-26T23:00Z",
+      "state": "pre",
+      "status": "9/26 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2132",
+        "abbr": "CIN",
+        "name": "Cincinnati Bearcats",
+        "score": "0"
+      },
+      "away": {
+        "id": "2306",
+        "abbr": "KSU",
+        "name": "Kansas State Wildcats",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856881",
+      "name": "Oklahoma State Cowboys at West Virginia Mountaineers",
+      "shortName": "OKST @ WVU",
+      "date": "2026-09-26T23:00Z",
+      "state": "pre",
+      "status": "9/26 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "277",
+        "abbr": "WVU",
+        "name": "West Virginia Mountaineers",
+        "score": "0"
+      },
+      "away": {
+        "id": "197",
+        "abbr": "OKST",
+        "name": "Oklahoma State Cowboys",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401862784",
+      "name": "Southern Miss Golden Eagles at Tulane Green Wave",
+      "shortName": "USM @ TULN",
+      "date": "2026-09-26T23:00Z",
+      "state": "pre",
+      "status": "9/26 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2655",
+        "abbr": "TULN",
+        "name": "Tulane Green Wave",
+        "score": "0"
+      },
+      "away": {
+        "id": "2572",
+        "abbr": "USM",
+        "name": "Southern Miss Golden Eagles",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401869931",
+      "name": "Kennesaw State Owls at Arkansas State Red Wolves",
+      "shortName": "KENN @ ARST",
+      "date": "2026-09-26T23:00Z",
+      "state": "pre",
+      "status": "9/26 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2032",
+        "abbr": "ARST",
+        "name": "Arkansas State Red Wolves",
+        "score": "0"
+      },
+      "away": {
+        "id": "338",
+        "abbr": "KENN",
+        "name": "Kennesaw State Owls",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401870745",
+      "name": "Mercyhurst Lakers at Western Kentucky Hilltoppers",
+      "shortName": "MERC @ WKU",
+      "date": "2026-09-26T23:00Z",
+      "state": "pre",
+      "status": "9/26 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "98",
+        "abbr": "WKU",
+        "name": "Western Kentucky Hilltoppers",
+        "score": "0"
+      },
+      "away": {
+        "id": "2385",
+        "abbr": "MERC",
+        "name": "Mercyhurst Lakers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401871048",
+      "name": "Middle Tennessee Blue Raiders at Jacksonville State Gamecocks",
+      "shortName": "MTSU @ JXST",
+      "date": "2026-09-26T23:00Z",
+      "state": "pre",
+      "status": "9/26 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "55",
+        "abbr": "JXST",
+        "name": "Jacksonville State Gamecocks",
+        "score": "0"
+      },
+      "away": {
+        "id": "2393",
+        "abbr": "MTSU",
+        "name": "Middle Tennessee Blue Raiders",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856702",
+      "name": "Texas A&M Aggies at LSU Tigers",
+      "shortName": "TA&M @ LSU",
+      "date": "2026-09-26T23:30Z",
+      "state": "pre",
+      "status": "9/26 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "99",
+        "abbr": "LSU",
+        "name": "LSU Tigers",
+        "score": "0"
+      },
+      "away": {
+        "id": "245",
+        "abbr": "TA&M",
+        "name": "Texas A&M Aggies",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858469",
+      "name": "Oregon Ducks at USC Trojans",
+      "shortName": "ORE @ USC",
+      "date": "2026-09-26T23:30Z",
+      "state": "pre",
+      "status": "9/26 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "30",
+        "abbr": "USC",
+        "name": "USC Trojans",
+        "score": "0"
+      },
+      "away": {
+        "id": "2483",
+        "abbr": "ORE",
+        "name": "Oregon Ducks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856804",
+      "name": "Arizona Wildcats at Washington State Cougars",
+      "shortName": "ARIZ @ WSU",
+      "date": "2026-09-26T23:30Z",
+      "state": "pre",
+      "status": "9/26 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "265",
+        "abbr": "WSU",
+        "name": "Washington State Cougars",
+        "score": "0"
+      },
+      "away": {
+        "id": "12",
+        "abbr": "ARIZ",
+        "name": "Arizona Wildcats",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401860894",
+      "name": "Troy Trojans at Utah State Aggies",
+      "shortName": "TROY @ USU",
+      "date": "2026-09-26T23:30Z",
+      "state": "pre",
+      "status": "9/26 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "328",
+        "abbr": "USU",
+        "name": "Utah State Aggies",
+        "score": "0"
+      },
+      "away": {
+        "id": "2653",
+        "abbr": "TROY",
+        "name": "Troy Trojans",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401862783",
+      "name": "Houston Christian Huskies at North Texas Mean Green",
+      "shortName": "HCU @ UNT",
+      "date": "2026-09-26T23:30Z",
+      "state": "pre",
+      "status": "9/26 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "249",
+        "abbr": "UNT",
+        "name": "North Texas Mean Green",
+        "score": "0"
+      },
+      "away": {
+        "id": "2277",
+        "abbr": "HCU",
+        "name": "Houston Christian Huskies",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864572",
+      "name": "App State Mountaineers at NC State Wolfpack",
+      "shortName": "APP @ NCSU",
+      "date": "2026-09-26T23:30Z",
+      "state": "pre",
+      "status": "9/26 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "152",
+        "abbr": "NCSU",
+        "name": "NC State Wolfpack",
+        "score": "0"
+      },
+      "away": {
+        "id": "2026",
+        "abbr": "APP",
+        "name": "App State Mountaineers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856703",
+      "name": "Missouri Tigers at Mississippi State Bulldogs",
+      "shortName": "MIZ @ MSST",
+      "date": "2026-09-26T23:45Z",
+      "state": "pre",
+      "status": "9/26 - 7:45 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "344",
+        "abbr": "MSST",
+        "name": "Mississippi State Bulldogs",
+        "score": "0"
+      },
+      "away": {
+        "id": "142",
+        "abbr": "MIZ",
+        "name": "Missouri Tigers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856697",
+      "name": "Tulsa Golden Hurricane at Arkansas Razorbacks",
+      "shortName": "TLSA @ ARK",
+      "date": "2026-09-27T00:00Z",
+      "state": "pre",
+      "status": "9/26 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "8",
+        "abbr": "ARK",
+        "name": "Arkansas Razorbacks",
+        "score": "0"
+      },
+      "away": {
+        "id": "202",
+        "abbr": "TLSA",
+        "name": "Tulsa Golden Hurricane",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401862782",
+      "name": "Florida Atlantic Owls at UL Monroe Warhawks",
+      "shortName": "FAU @ ULM",
+      "date": "2026-09-27T00:00Z",
+      "state": "pre",
+      "status": "9/26 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2433",
+        "abbr": "ULM",
+        "name": "UL Monroe Warhawks",
+        "score": "0"
+      },
+      "away": {
+        "id": "2226",
+        "abbr": "FAU",
+        "name": "Florida Atlantic Owls",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858241",
+      "name": "Missouri State Bears at SMU Mustangs",
+      "shortName": "MOST @ SMU",
+      "date": "2026-09-27T01:00Z",
+      "state": "pre",
+      "status": "9/26 - 9:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2567",
+        "abbr": "SMU",
+        "name": "SMU Mustangs",
+        "score": "0"
+      },
+      "away": {
+        "id": "2623",
+        "abbr": "MOST",
+        "name": "Missouri State Bears",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401860895",
+      "name": "Oregon State Beavers at UTEP Miners",
+      "shortName": "ORST @ UTEP",
+      "date": "2026-09-27T01:00Z",
+      "state": "pre",
+      "status": "9/26 - 9:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2638",
+        "abbr": "UTEP",
+        "name": "UTEP Miners",
+        "score": "0"
+      },
+      "away": {
+        "id": "204",
+        "abbr": "ORST",
+        "name": "Oregon State Beavers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401866429",
+      "name": "Massachusetts Minutemen at Sacramento State Hornets",
+      "shortName": "MASS @ SAC",
+      "date": "2026-09-27T01:00Z",
+      "state": "pre",
+      "status": "9/26 - 9:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "16",
+        "abbr": "SAC",
+        "name": "Sacramento State Hornets",
+        "score": "0"
+      },
+      "away": {
+        "id": "113",
+        "abbr": "MASS",
+        "name": "Massachusetts Minutemen",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401860891",
+      "name": "Rice Owls at Fresno State Bulldogs",
+      "shortName": "RICE @ FRES",
+      "date": "2026-09-27T02:00Z",
+      "state": "pre",
+      "status": "9/26 - 10:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "278",
+        "abbr": "FRES",
+        "name": "Fresno State Bulldogs",
+        "score": "0"
+      },
+      "away": {
+        "id": "242",
+        "abbr": "RICE",
+        "name": "Rice Owls",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858240",
+      "name": "Georgia Tech Yellow Jackets at Stanford Cardinal",
+      "shortName": "GT @ STAN",
+      "date": "2026-09-27T02:30Z",
+      "state": "pre",
+      "status": "9/26 - 10:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "24",
+        "abbr": "STAN",
+        "name": "Stanford Cardinal",
+        "score": "0"
+      },
+      "away": {
+        "id": "59",
+        "abbr": "GT",
+        "name": "Georgia Tech Yellow Jackets",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864509",
+      "name": "Air Force Falcons at Nevada Wolf Pack",
+      "shortName": "AFA @ NEV",
+      "date": "2026-09-27T02:30Z",
+      "state": "pre",
+      "status": "9/26 - 10:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2440",
+        "abbr": "NEV",
+        "name": "Nevada Wolf Pack",
+        "score": "0"
+      },
+      "away": {
+        "id": "2005",
+        "abbr": "AFA",
+        "name": "Air Force Falcons",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858470",
+      "name": "Minnesota Golden Gophers at Washington Huskies",
+      "shortName": "MINN @ WASH",
+      "date": "2026-09-27T03:00Z",
+      "state": "pre",
+      "status": "9/26 - 11:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "264",
+        "abbr": "WASH",
+        "name": "Washington Huskies",
+        "score": "0"
+      },
+      "away": {
+        "id": "135",
+        "abbr": "MINN",
+        "name": "Minnesota Golden Gophers",
         "score": "0"
       }
     }
