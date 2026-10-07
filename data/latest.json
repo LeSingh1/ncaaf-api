@@ -1,27 +1,48 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261006",
-  "count": 1,
+  "date": "20261007",
+  "count": 2,
   "games": [
     {
-      "id": "401871090",
-      "name": "Southern Miss Golden Eagles at Troy Trojans",
-      "shortName": "USM @ TROY",
-      "date": "2026-10-07T00:00Z",
+      "id": "401871051",
+      "name": "Jacksonville State Gamecocks at Kennesaw State Owls",
+      "shortName": "JXST @ KENN",
+      "date": "2026-10-07T23:00Z",
       "state": "pre",
-      "status": "10/6 - 8:00 PM EDT",
+      "status": "10/7 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "2653",
-        "abbr": "TROY",
-        "name": "Troy Trojans",
+        "id": "338",
+        "abbr": "KENN",
+        "name": "Kennesaw State Owls",
         "score": "0"
       },
       "away": {
-        "id": "2572",
-        "abbr": "USM",
-        "name": "Southern Miss Golden Eagles",
+        "id": "55",
+        "abbr": "JXST",
+        "name": "Jacksonville State Gamecocks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401871066",
+      "name": "New Mexico State Aggies at Florida International Panthers",
+      "shortName": "NMSU @ FIU",
+      "date": "2026-10-07T23:30Z",
+      "state": "pre",
+      "status": "10/7 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2229",
+        "abbr": "FIU",
+        "name": "Florida International Panthers",
+        "score": "0"
+      },
+      "away": {
+        "id": "166",
+        "abbr": "NMSU",
+        "name": "New Mexico State Aggies",
         "score": "0"
       }
     }
