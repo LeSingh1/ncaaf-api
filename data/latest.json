@@ -1,48 +1,90 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261007",
-  "count": 2,
+  "date": "20261008",
+  "count": 4,
   "games": [
     {
-      "id": "401871051",
-      "name": "Jacksonville State Gamecocks at Kennesaw State Owls",
-      "shortName": "JXST @ KENN",
-      "date": "2026-10-07T23:00Z",
+      "id": "401870766",
+      "name": "Sam Houston Bearkats at Liberty Flames",
+      "shortName": "SHSU @ LIB",
+      "date": "2026-10-08T23:00Z",
       "state": "pre",
-      "status": "10/7 - 7:00 PM EDT",
+      "status": "10/8 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "338",
-        "abbr": "KENN",
-        "name": "Kennesaw State Owls",
+        "id": "2335",
+        "abbr": "LIB",
+        "name": "Liberty Flames",
         "score": "0"
       },
       "away": {
-        "id": "55",
-        "abbr": "JXST",
-        "name": "Jacksonville State Gamecocks",
+        "id": "2534",
+        "abbr": "SHSU",
+        "name": "Sam Houston Bearkats",
         "score": "0"
       }
     },
     {
-      "id": "401871066",
-      "name": "New Mexico State Aggies at Florida International Panthers",
-      "shortName": "NMSU @ FIU",
-      "date": "2026-10-07T23:30Z",
+      "id": "401871052",
+      "name": "Missouri State Bears at Western Kentucky Hilltoppers",
+      "shortName": "MOST @ WKU",
+      "date": "2026-10-08T23:00Z",
       "state": "pre",
-      "status": "10/7 - 7:30 PM EDT",
+      "status": "10/8 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "2229",
-        "abbr": "FIU",
-        "name": "Florida International Panthers",
+        "id": "98",
+        "abbr": "WKU",
+        "name": "Western Kentucky Hilltoppers",
         "score": "0"
       },
       "away": {
-        "id": "166",
-        "abbr": "NMSU",
-        "name": "New Mexico State Aggies",
+        "id": "2623",
+        "abbr": "MOST",
+        "name": "Missouri State Bears",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401862794",
+      "name": "South Florida Bulls at UTSA Roadrunners",
+      "shortName": "USF @ UTSA",
+      "date": "2026-10-08T23:30Z",
+      "state": "pre",
+      "status": "10/8 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2636",
+        "abbr": "UTSA",
+        "name": "UTSA Roadrunners",
+        "score": "0"
+      },
+      "away": {
+        "id": "58",
+        "abbr": "USF",
+        "name": "South Florida Bulls",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401869933",
+      "name": "South Alabama Jaguars at Arkansas State Red Wolves",
+      "shortName": "USA @ ARST",
+      "date": "2026-10-08T23:30Z",
+      "state": "pre",
+      "status": "10/8 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2032",
+        "abbr": "ARST",
+        "name": "Arkansas State Red Wolves",
+        "score": "0"
+      },
+      "away": {
+        "id": "6",
+        "abbr": "USA",
+        "name": "South Alabama Jaguars",
         "score": "0"
       }
     }
