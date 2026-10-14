@@ -1,48 +1,48 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261013",
+  "date": "20261014",
   "count": 2,
   "games": [
     {
-      "id": "401871067",
-      "name": "Delaware Blue Hens at Middle Tennessee Blue Raiders",
-      "shortName": "DEL @ MTSU",
-      "date": "2026-10-13T23:00Z",
+      "id": "401871054",
+      "name": "Kennesaw State Owls at Missouri State Bears",
+      "shortName": "KENN @ MOST",
+      "date": "2026-10-14T23:30Z",
       "state": "pre",
-      "status": "10/13 - 7:00 PM EDT",
+      "status": "10/14 - 7:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "2393",
-        "abbr": "MTSU",
-        "name": "Middle Tennessee Blue Raiders",
+        "id": "2623",
+        "abbr": "MOST",
+        "name": "Missouri State Bears",
         "score": "0"
       },
       "away": {
-        "id": "48",
-        "abbr": "DEL",
-        "name": "Delaware Blue Hens",
+        "id": "338",
+        "abbr": "KENN",
+        "name": "Kennesaw State Owls",
         "score": "0"
       }
     },
     {
-      "id": "401871053",
-      "name": "Florida International Panthers at Jacksonville State Gamecocks",
-      "shortName": "FIU @ JXST",
-      "date": "2026-10-14T00:00Z",
+      "id": "401871068",
+      "name": "Western Kentucky Hilltoppers at Sam Houston Bearkats",
+      "shortName": "WKU @ SHSU",
+      "date": "2026-10-15T00:00Z",
       "state": "pre",
-      "status": "10/13 - 8:00 PM EDT",
+      "status": "10/14 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "55",
-        "abbr": "JXST",
-        "name": "Jacksonville State Gamecocks",
+        "id": "2534",
+        "abbr": "SHSU",
+        "name": "Sam Houston Bearkats",
         "score": "0"
       },
       "away": {
-        "id": "2229",
-        "abbr": "FIU",
-        "name": "Florida International Panthers",
+        "id": "98",
+        "abbr": "WKU",
+        "name": "Western Kentucky Hilltoppers",
         "score": "0"
       }
     }
