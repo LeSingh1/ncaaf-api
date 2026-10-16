@@ -1,69 +1,69 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261015",
+  "date": "20261016",
   "count": 3,
   "games": [
     {
-      "id": "401862800",
-      "name": "East Carolina Pirates at UAB Blazers",
-      "shortName": "ECU @ UAB",
-      "date": "2026-10-15T23:30Z",
+      "id": "401862801",
+      "name": "Memphis Tigers at Tulane Green Wave",
+      "shortName": "MEM @ TULN",
+      "date": "2026-10-16T23:30Z",
       "state": "pre",
-      "status": "10/15 - 7:30 PM EDT",
+      "status": "10/16 - 7:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "5",
-        "abbr": "UAB",
-        "name": "UAB Blazers",
+        "id": "2655",
+        "abbr": "TULN",
+        "name": "Tulane Green Wave",
         "score": "0"
       },
       "away": {
-        "id": "151",
-        "abbr": "ECU",
-        "name": "East Carolina Pirates",
+        "id": "235",
+        "abbr": "MEM",
+        "name": "Memphis Tigers",
         "score": "0"
       }
     },
     {
-      "id": "401869950",
-      "name": "Georgia Southern Eagles at Old Dominion Monarchs",
-      "shortName": "GASO @ ODU",
-      "date": "2026-10-15T23:30Z",
+      "id": "401858493",
+      "name": "Washington Huskies at Purdue Boilermakers",
+      "shortName": "WASH @ PUR",
+      "date": "2026-10-17T00:00Z",
       "state": "pre",
-      "status": "10/15 - 7:30 PM EDT",
+      "status": "10/16 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "295",
-        "abbr": "ODU",
-        "name": "Old Dominion Monarchs",
+        "id": "2509",
+        "abbr": "PUR",
+        "name": "Purdue Boilermakers",
         "score": "0"
       },
       "away": {
-        "id": "290",
-        "abbr": "GASO",
-        "name": "Georgia Southern Eagles",
+        "id": "264",
+        "abbr": "WASH",
+        "name": "Washington Huskies",
         "score": "0"
       }
     },
     {
-      "id": "401860923",
-      "name": "Colorado State Rams at Texas State Bobcats",
-      "shortName": "CSU @ TXST",
-      "date": "2026-10-16T00:00Z",
+      "id": "401869844",
+      "name": "App State Mountaineers at Coastal Carolina Chanticleers",
+      "shortName": "APP @ CCU",
+      "date": "2026-10-17T00:00Z",
       "state": "pre",
-      "status": "10/15 - 8:00 PM EDT",
+      "status": "10/16 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "326",
-        "abbr": "TXST",
-        "name": "Texas State Bobcats",
+        "id": "324",
+        "abbr": "CCU",
+        "name": "Coastal Carolina Chanticleers",
         "score": "0"
       },
       "away": {
-        "id": "36",
-        "abbr": "CSU",
-        "name": "Colorado State Rams",
+        "id": "2026",
+        "abbr": "APP",
+        "name": "App State Mountaineers",
         "score": "0"
       }
     }
