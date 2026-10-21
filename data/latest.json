@@ -1,69 +1,27 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261020",
-  "count": 3,
+  "date": "20261021",
+  "count": 1,
   "games": [
     {
-      "id": "401871055",
-      "name": "Middle Tennessee Blue Raiders at Florida International Panthers",
-      "shortName": "MTSU @ FIU",
-      "date": "2026-10-20T23:00Z",
+      "id": "401871070",
+      "name": "New Mexico State Aggies at Sam Houston Bearkats",
+      "shortName": "NMSU @ SHSU",
+      "date": "2026-10-22T00:00Z",
       "state": "pre",
-      "status": "10/20 - 7:00 PM EDT",
+      "status": "10/21 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "2229",
-        "abbr": "FIU",
-        "name": "Florida International Panthers",
+        "id": "2534",
+        "abbr": "SHSU",
+        "name": "Sam Houston Bearkats",
         "score": "0"
       },
       "away": {
-        "id": "2393",
-        "abbr": "MTSU",
-        "name": "Middle Tennessee Blue Raiders",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401871069",
-      "name": "Missouri State Bears at Delaware Blue Hens",
-      "shortName": "MOST @ DEL",
-      "date": "2026-10-20T23:00Z",
-      "state": "pre",
-      "status": "10/20 - 7:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "48",
-        "abbr": "DEL",
-        "name": "Delaware Blue Hens",
-        "score": "0"
-      },
-      "away": {
-        "id": "2623",
-        "abbr": "MOST",
-        "name": "Missouri State Bears",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401871092",
-      "name": "South Alabama Jaguars at Marshall Thundering Herd",
-      "shortName": "USA @ MRSH",
-      "date": "2026-10-20T23:30Z",
-      "state": "pre",
-      "status": "10/20 - 7:30 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "276",
-        "abbr": "MRSH",
-        "name": "Marshall Thundering Herd",
-        "score": "0"
-      },
-      "away": {
-        "id": "6",
-        "abbr": "USA",
-        "name": "South Alabama Jaguars",
+        "id": "166",
+        "abbr": "NMSU",
+        "name": "New Mexico State Aggies",
         "score": "0"
       }
     }
