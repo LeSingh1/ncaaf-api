@@ -1,27 +1,69 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261021",
-  "count": 1,
+  "date": "20261022",
+  "count": 3,
   "games": [
     {
-      "id": "401871070",
-      "name": "New Mexico State Aggies at Sam Houston Bearkats",
-      "shortName": "NMSU @ SHSU",
-      "date": "2026-10-22T00:00Z",
+      "id": "401869845",
+      "name": "James Madison Dukes at App State Mountaineers",
+      "shortName": "JMU @ APP",
+      "date": "2026-10-22T23:00Z",
       "state": "pre",
-      "status": "10/21 - 8:00 PM EDT",
+      "status": "10/22 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "2534",
-        "abbr": "SHSU",
-        "name": "Sam Houston Bearkats",
+        "id": "2026",
+        "abbr": "APP",
+        "name": "App State Mountaineers",
         "score": "0"
       },
       "away": {
-        "id": "166",
-        "abbr": "NMSU",
-        "name": "New Mexico State Aggies",
+        "id": "256",
+        "abbr": "JMU",
+        "name": "James Madison Dukes",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401871056",
+      "name": "Liberty Flames at Kennesaw State Owls",
+      "shortName": "LIB @ KENN",
+      "date": "2026-10-22T23:00Z",
+      "state": "pre",
+      "status": "10/22 - 7:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "338",
+        "abbr": "KENN",
+        "name": "Kennesaw State Owls",
+        "score": "0"
+      },
+      "away": {
+        "id": "2335",
+        "abbr": "LIB",
+        "name": "Liberty Flames",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401862807",
+      "name": "East Carolina Pirates at Memphis Tigers",
+      "shortName": "ECU @ MEM",
+      "date": "2026-10-22T23:30Z",
+      "state": "pre",
+      "status": "10/22 - 7:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "235",
+        "abbr": "MEM",
+        "name": "Memphis Tigers",
+        "score": "0"
+      },
+      "away": {
+        "id": "151",
+        "abbr": "ECU",
+        "name": "East Carolina Pirates",
         "score": "0"
       }
     }
