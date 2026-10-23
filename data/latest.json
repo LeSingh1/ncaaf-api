@@ -1,69 +1,111 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261022",
-  "count": 3,
+  "date": "20261023",
+  "count": 5,
   "games": [
     {
-      "id": "401869845",
-      "name": "James Madison Dukes at App State Mountaineers",
-      "shortName": "JMU @ APP",
-      "date": "2026-10-22T23:00Z",
+      "id": "401858271",
+      "name": "Duke Blue Devils at Virginia Cavaliers",
+      "shortName": "DUKE @ UVA",
+      "date": "2026-10-23T23:00Z",
       "state": "pre",
-      "status": "10/22 - 7:00 PM EDT",
+      "status": "10/23 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "2026",
-        "abbr": "APP",
-        "name": "App State Mountaineers",
+        "id": "258",
+        "abbr": "UVA",
+        "name": "Virginia Cavaliers",
         "score": "0"
       },
       "away": {
-        "id": "256",
-        "abbr": "JMU",
-        "name": "James Madison Dukes",
+        "id": "150",
+        "abbr": "DUKE",
+        "name": "Duke Blue Devils",
         "score": "0"
       }
     },
     {
-      "id": "401871056",
-      "name": "Liberty Flames at Kennesaw State Owls",
-      "shortName": "LIB @ KENN",
-      "date": "2026-10-22T23:00Z",
+      "id": "401861965",
+      "name": "Massachusetts Minutemen at UConn Huskies",
+      "shortName": "MASS @ CONN",
+      "date": "2026-10-23T23:00Z",
       "state": "pre",
-      "status": "10/22 - 7:00 PM EDT",
+      "status": "10/23 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "338",
-        "abbr": "KENN",
-        "name": "Kennesaw State Owls",
+        "id": "41",
+        "abbr": "CONN",
+        "name": "UConn Huskies",
         "score": "0"
       },
       "away": {
-        "id": "2335",
-        "abbr": "LIB",
-        "name": "Liberty Flames",
+        "id": "113",
+        "abbr": "MASS",
+        "name": "Massachusetts Minutemen",
         "score": "0"
       }
     },
     {
-      "id": "401862807",
-      "name": "East Carolina Pirates at Memphis Tigers",
-      "shortName": "ECU @ MEM",
-      "date": "2026-10-22T23:30Z",
+      "id": "401862808",
+      "name": "Army Black Knights at Tulsa Golden Hurricane",
+      "shortName": "ARMY @ TLSA",
+      "date": "2026-10-24T00:30Z",
       "state": "pre",
-      "status": "10/22 - 7:30 PM EDT",
+      "status": "10/23 - 8:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "235",
-        "abbr": "MEM",
-        "name": "Memphis Tigers",
+        "id": "202",
+        "abbr": "TLSA",
+        "name": "Tulsa Golden Hurricane",
         "score": "0"
       },
       "away": {
-        "id": "151",
-        "abbr": "ECU",
-        "name": "East Carolina Pirates",
+        "id": "349",
+        "abbr": "ARMY",
+        "name": "Army Black Knights",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864525",
+      "name": "Air Force Falcons at Wyoming Cowboys",
+      "shortName": "AFA @ WYO",
+      "date": "2026-10-24T01:00Z",
+      "state": "pre",
+      "status": "10/23 - 9:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "2751",
+        "abbr": "WYO",
+        "name": "Wyoming Cowboys",
+        "score": "0"
+      },
+      "away": {
+        "id": "2005",
+        "abbr": "AFA",
+        "name": "Air Force Falcons",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858272",
+      "name": "NC State Wolfpack at Stanford Cardinal",
+      "shortName": "NCSU @ STAN",
+      "date": "2026-10-24T02:30Z",
+      "state": "pre",
+      "status": "10/23 - 10:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "24",
+        "abbr": "STAN",
+        "name": "Stanford Cardinal",
+        "score": "0"
+      },
+      "away": {
+        "id": "152",
+        "abbr": "NCSU",
+        "name": "NC State Wolfpack",
         "score": "0"
       }
     }
