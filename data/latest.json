@@ -1,48 +1,48 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261027",
+  "date": "20261028",
   "count": 2,
   "games": [
     {
-      "id": "401871071",
-      "name": "Delaware Blue Hens at Western Kentucky Hilltoppers",
-      "shortName": "DEL @ WKU",
-      "date": "2026-10-27T23:00Z",
+      "id": "401871058",
+      "name": "Kennesaw State Owls at Middle Tennessee Blue Raiders",
+      "shortName": "KENN @ MTSU",
+      "date": "2026-10-28T23:00Z",
       "state": "pre",
-      "status": "10/27 - 7:00 PM EDT",
+      "status": "10/28 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "98",
-        "abbr": "WKU",
-        "name": "Western Kentucky Hilltoppers",
+        "id": "2393",
+        "abbr": "MTSU",
+        "name": "Middle Tennessee Blue Raiders",
         "score": "0"
       },
       "away": {
-        "id": "48",
-        "abbr": "DEL",
-        "name": "Delaware Blue Hens",
+        "id": "338",
+        "abbr": "KENN",
+        "name": "Kennesaw State Owls",
         "score": "0"
       }
     },
     {
-      "id": "401871072",
-      "name": "Sam Houston Bearkats at Missouri State Bears",
-      "shortName": "SHSU @ MOST",
-      "date": "2026-10-28T00:00Z",
+      "id": "401871057",
+      "name": "Jacksonville State Gamecocks at New Mexico State Aggies",
+      "shortName": "JXST @ NMSU",
+      "date": "2026-10-29T00:00Z",
       "state": "pre",
-      "status": "10/27 - 8:00 PM EDT",
+      "status": "10/28 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "2623",
-        "abbr": "MOST",
-        "name": "Missouri State Bears",
+        "id": "166",
+        "abbr": "NMSU",
+        "name": "New Mexico State Aggies",
         "score": "0"
       },
       "away": {
-        "id": "2534",
-        "abbr": "SHSU",
-        "name": "Sam Houston Bearkats",
+        "id": "55",
+        "abbr": "JXST",
+        "name": "Jacksonville State Gamecocks",
         "score": "0"
       }
     }
