@@ -1,48 +1,48 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261028",
+  "date": "20261029",
   "count": 2,
   "games": [
     {
-      "id": "401871058",
-      "name": "Kennesaw State Owls at Middle Tennessee Blue Raiders",
-      "shortName": "KENN @ MTSU",
-      "date": "2026-10-28T23:00Z",
+      "id": "401862812",
+      "name": "Florida Atlantic Owls at North Texas Mean Green",
+      "shortName": "FAU @ UNT",
+      "date": "2026-10-29T23:30Z",
       "state": "pre",
-      "status": "10/28 - 7:00 PM EDT",
+      "status": "10/29 - 7:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "2393",
-        "abbr": "MTSU",
-        "name": "Middle Tennessee Blue Raiders",
+        "id": "249",
+        "abbr": "UNT",
+        "name": "North Texas Mean Green",
         "score": "0"
       },
       "away": {
-        "id": "338",
-        "abbr": "KENN",
-        "name": "Kennesaw State Owls",
+        "id": "2226",
+        "abbr": "FAU",
+        "name": "Florida Atlantic Owls",
         "score": "0"
       }
     },
     {
-      "id": "401871057",
-      "name": "Jacksonville State Gamecocks at New Mexico State Aggies",
-      "shortName": "JXST @ NMSU",
-      "date": "2026-10-29T00:00Z",
+      "id": "401869963",
+      "name": "Troy Trojans at James Madison Dukes",
+      "shortName": "TROY @ JMU",
+      "date": "2026-10-29T23:30Z",
       "state": "pre",
-      "status": "10/28 - 8:00 PM EDT",
+      "status": "10/29 - 7:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "166",
-        "abbr": "NMSU",
-        "name": "New Mexico State Aggies",
+        "id": "256",
+        "abbr": "JMU",
+        "name": "James Madison Dukes",
         "score": "0"
       },
       "away": {
-        "id": "55",
-        "abbr": "JXST",
-        "name": "Jacksonville State Gamecocks",
+        "id": "2653",
+        "abbr": "TROY",
+        "name": "Troy Trojans",
         "score": "0"
       }
     }
