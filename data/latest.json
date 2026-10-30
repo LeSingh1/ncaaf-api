@@ -1,48 +1,69 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261029",
-  "count": 2,
+  "date": "20261030",
+  "count": 3,
   "games": [
     {
-      "id": "401862812",
-      "name": "Florida Atlantic Owls at North Texas Mean Green",
-      "shortName": "FAU @ UNT",
-      "date": "2026-10-29T23:30Z",
+      "id": "401862813",
+      "name": "Tulane Green Wave at Charlotte 49ers",
+      "shortName": "TULN @ CLT",
+      "date": "2026-10-30T23:00Z",
       "state": "pre",
-      "status": "10/29 - 7:30 PM EDT",
+      "status": "10/30 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "249",
-        "abbr": "UNT",
-        "name": "North Texas Mean Green",
+        "id": "2429",
+        "abbr": "CLT",
+        "name": "Charlotte 49ers",
         "score": "0"
       },
       "away": {
-        "id": "2226",
-        "abbr": "FAU",
-        "name": "Florida Atlantic Owls",
+        "id": "2655",
+        "abbr": "TULN",
+        "name": "Tulane Green Wave",
         "score": "0"
       }
     },
     {
-      "id": "401869963",
-      "name": "Troy Trojans at James Madison Dukes",
-      "shortName": "TROY @ JMU",
-      "date": "2026-10-29T23:30Z",
+      "id": "401856844",
+      "name": "Baylor Bears at UCF Knights",
+      "shortName": "BAY @ UCF",
+      "date": "2026-10-30T23:30Z",
       "state": "pre",
-      "status": "10/29 - 7:30 PM EDT",
+      "status": "10/30 - 7:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "256",
-        "abbr": "JMU",
-        "name": "James Madison Dukes",
+        "id": "2116",
+        "abbr": "UCF",
+        "name": "UCF Knights",
         "score": "0"
       },
       "away": {
-        "id": "2653",
-        "abbr": "TROY",
-        "name": "Troy Trojans",
+        "id": "239",
+        "abbr": "BAY",
+        "name": "Baylor Bears",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401866451",
+      "name": "Kent State Golden Flashes at Sacramento State Hornets",
+      "shortName": "KENT @ SAC",
+      "date": "2026-10-31T02:30Z",
+      "state": "pre",
+      "status": "10/30 - 10:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "16",
+        "abbr": "SAC",
+        "name": "Sacramento State Hornets",
+        "score": "0"
+      },
+      "away": {
+        "id": "2309",
+        "abbr": "KENT",
+        "name": "Kent State Golden Flashes",
         "score": "0"
       }
     }
