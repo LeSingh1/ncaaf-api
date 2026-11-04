@@ -1,48 +1,69 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261103",
-  "count": 2,
+  "date": "20261104",
+  "count": 3,
   "games": [
     {
-      "id": "401866453",
-      "name": "Ohio Bobcats at Akron Zips",
-      "shortName": "OHIO @ AKR",
-      "date": "2026-11-04T00:00Z",
+      "id": "401866455",
+      "name": "Ball State Cardinals at Massachusetts Minutemen",
+      "shortName": "BALL @ MASS",
+      "date": "2026-11-05T00:00Z",
       "state": "pre",
-      "status": "11/3 - 7:00 PM EST",
+      "status": "11/4 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2006",
-        "abbr": "AKR",
-        "name": "Akron Zips",
+        "id": "113",
+        "abbr": "MASS",
+        "name": "Massachusetts Minutemen",
         "score": "0"
       },
       "away": {
-        "id": "195",
-        "abbr": "OHIO",
-        "name": "Ohio Bobcats",
+        "id": "2050",
+        "abbr": "BALL",
+        "name": "Ball State Cardinals",
         "score": "0"
       }
     },
     {
-      "id": "401866454",
-      "name": "Buffalo Bulls at Miami (OH) RedHawks",
-      "shortName": "BUFF @ M-OH",
-      "date": "2026-11-04T01:00Z",
+      "id": "401866457",
+      "name": "Toledo Rockets at Sacramento State Hornets",
+      "shortName": "TOL @ SAC",
+      "date": "2026-11-05T00:00Z",
       "state": "pre",
-      "status": "11/3 - 8:00 PM EST",
+      "status": "11/4 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "193",
-        "abbr": "M-OH",
-        "name": "Miami (OH) RedHawks",
+        "id": "16",
+        "abbr": "SAC",
+        "name": "Sacramento State Hornets",
         "score": "0"
       },
       "away": {
-        "id": "2084",
-        "abbr": "BUFF",
-        "name": "Buffalo Bulls",
+        "id": "2649",
+        "abbr": "TOL",
+        "name": "Toledo Rockets",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401866456",
+      "name": "Central Michigan Chippewas at Eastern Michigan Eagles",
+      "shortName": "CMU VS EMU",
+      "date": "2026-11-05T00:30Z",
+      "state": "pre",
+      "status": "11/4 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2199",
+        "abbr": "EMU",
+        "name": "Eastern Michigan Eagles",
+        "score": "0"
+      },
+      "away": {
+        "id": "2117",
+        "abbr": "CMU",
+        "name": "Central Michigan Chippewas",
         "score": "0"
       }
     }
