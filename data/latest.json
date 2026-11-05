@@ -1,69 +1,48 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261104",
-  "count": 3,
+  "date": "20261105",
+  "count": 2,
   "games": [
     {
-      "id": "401866455",
-      "name": "Ball State Cardinals at Massachusetts Minutemen",
-      "shortName": "BALL @ MASS",
-      "date": "2026-11-05T00:00Z",
+      "id": "401862817",
+      "name": "UTSA Roadrunners at Florida Atlantic Owls",
+      "shortName": "UTSA @ FAU",
+      "date": "2026-11-06T00:30Z",
       "state": "pre",
-      "status": "11/4 - 7:00 PM EST",
+      "status": "11/5 - 7:30 PM EST",
       "completed": false,
       "home": {
-        "id": "113",
-        "abbr": "MASS",
-        "name": "Massachusetts Minutemen",
+        "id": "2226",
+        "abbr": "FAU",
+        "name": "Florida Atlantic Owls",
         "score": "0"
       },
       "away": {
-        "id": "2050",
-        "abbr": "BALL",
-        "name": "Ball State Cardinals",
+        "id": "2636",
+        "abbr": "UTSA",
+        "name": "UTSA Roadrunners",
         "score": "0"
       }
     },
     {
-      "id": "401866457",
-      "name": "Toledo Rockets at Sacramento State Hornets",
-      "shortName": "TOL @ SAC",
-      "date": "2026-11-05T00:00Z",
+      "id": "401869964",
+      "name": "James Madison Dukes at Southern Miss Golden Eagles",
+      "shortName": "JMU @ USM",
+      "date": "2026-11-06T01:00Z",
       "state": "pre",
-      "status": "11/4 - 7:00 PM EST",
+      "status": "11/5 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "16",
-        "abbr": "SAC",
-        "name": "Sacramento State Hornets",
+        "id": "2572",
+        "abbr": "USM",
+        "name": "Southern Miss Golden Eagles",
         "score": "0"
       },
       "away": {
-        "id": "2649",
-        "abbr": "TOL",
-        "name": "Toledo Rockets",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401866456",
-      "name": "Central Michigan Chippewas at Eastern Michigan Eagles",
-      "shortName": "CMU VS EMU",
-      "date": "2026-11-05T00:30Z",
-      "state": "pre",
-      "status": "11/4 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2199",
-        "abbr": "EMU",
-        "name": "Eastern Michigan Eagles",
-        "score": "0"
-      },
-      "away": {
-        "id": "2117",
-        "abbr": "CMU",
-        "name": "Central Michigan Chippewas",
+        "id": "256",
+        "abbr": "JMU",
+        "name": "James Madison Dukes",
         "score": "0"
       }
     }
