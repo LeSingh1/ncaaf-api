@@ -1,48 +1,111 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261105",
-  "count": 2,
+  "date": "20261106",
+  "count": 5,
   "games": [
     {
-      "id": "401862817",
-      "name": "UTSA Roadrunners at Florida Atlantic Owls",
-      "shortName": "UTSA @ FAU",
-      "date": "2026-11-06T00:30Z",
+      "id": "401858288",
+      "name": "Virginia Tech Hokies at SMU Mustangs",
+      "shortName": "VT @ SMU",
+      "date": "2026-11-07T00:00Z",
       "state": "pre",
-      "status": "11/5 - 7:30 PM EST",
+      "status": "11/6 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2226",
-        "abbr": "FAU",
-        "name": "Florida Atlantic Owls",
+        "id": "2567",
+        "abbr": "SMU",
+        "name": "SMU Mustangs",
         "score": "0"
       },
       "away": {
-        "id": "2636",
-        "abbr": "UTSA",
-        "name": "UTSA Roadrunners",
+        "id": "259",
+        "abbr": "VT",
+        "name": "Virginia Tech Hokies",
         "score": "0"
       }
     },
     {
-      "id": "401869964",
-      "name": "James Madison Dukes at Southern Miss Golden Eagles",
-      "shortName": "JMU @ USM",
-      "date": "2026-11-06T01:00Z",
+      "id": "401862818",
+      "name": "South Florida Bulls at East Carolina Pirates",
+      "shortName": "USF @ ECU",
+      "date": "2026-11-07T00:30Z",
       "state": "pre",
-      "status": "11/5 - 8:00 PM EST",
+      "status": "11/6 - 7:30 PM EST",
       "completed": false,
       "home": {
-        "id": "2572",
-        "abbr": "USM",
-        "name": "Southern Miss Golden Eagles",
+        "id": "151",
+        "abbr": "ECU",
+        "name": "East Carolina Pirates",
         "score": "0"
       },
       "away": {
-        "id": "256",
-        "abbr": "JMU",
-        "name": "James Madison Dukes",
+        "id": "58",
+        "abbr": "USF",
+        "name": "South Florida Bulls",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858510",
+      "name": "Nebraska Cornhuskers at Illinois Fighting Illini",
+      "shortName": "NEB @ ILL",
+      "date": "2026-11-07T01:00Z",
+      "state": "pre",
+      "status": "11/6 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "356",
+        "abbr": "ILL",
+        "name": "Illinois Fighting Illini",
+        "score": "0"
+      },
+      "away": {
+        "id": "158",
+        "abbr": "NEB",
+        "name": "Nebraska Cornhuskers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864533",
+      "name": "New Mexico Lobos at Nevada Wolf Pack",
+      "shortName": "UNM @ NEV",
+      "date": "2026-11-07T02:00Z",
+      "state": "pre",
+      "status": "11/6 - 9:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2440",
+        "abbr": "NEV",
+        "name": "Nevada Wolf Pack",
+        "score": "0"
+      },
+      "away": {
+        "id": "167",
+        "abbr": "UNM",
+        "name": "New Mexico Lobos",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856855",
+      "name": "TCU Horned Frogs at Arizona Wildcats",
+      "shortName": "TCU @ ARIZ",
+      "date": "2026-11-07T03:15Z",
+      "state": "pre",
+      "status": "11/6 - 10:15 PM EST",
+      "completed": false,
+      "home": {
+        "id": "12",
+        "abbr": "ARIZ",
+        "name": "Arizona Wildcats",
+        "score": "0"
+      },
+      "away": {
+        "id": "2628",
+        "abbr": "TCU",
+        "name": "TCU Horned Frogs",
         "score": "0"
       }
     }
