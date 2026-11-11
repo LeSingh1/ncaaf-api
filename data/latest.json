@@ -1,69 +1,69 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261110",
+  "date": "20261111",
   "count": 3,
   "games": [
     {
-      "id": "401866458",
-      "name": "Western Michigan Broncos at Akron Zips",
-      "shortName": "WMU @ AKR",
-      "date": "2026-11-11T00:00Z",
+      "id": "401866461",
+      "name": "Buffalo Bulls at Ball State Cardinals",
+      "shortName": "BUFF @ BALL",
+      "date": "2026-11-12T00:30Z",
       "state": "pre",
-      "status": "11/10 - 7:00 PM EST",
+      "status": "11/11 - 7:30 PM EST",
       "completed": false,
       "home": {
-        "id": "2006",
-        "abbr": "AKR",
-        "name": "Akron Zips",
+        "id": "2050",
+        "abbr": "BALL",
+        "name": "Ball State Cardinals",
         "score": "0"
       },
       "away": {
-        "id": "2711",
-        "abbr": "WMU",
-        "name": "Western Michigan Broncos",
+        "id": "2084",
+        "abbr": "BUFF",
+        "name": "Buffalo Bulls",
         "score": "0"
       }
     },
     {
-      "id": "401866459",
-      "name": "Kent State Golden Flashes at Bowling Green Falcons",
-      "shortName": "KENT @ BGSU",
-      "date": "2026-11-11T00:00Z",
+      "id": "401866462",
+      "name": "Sacramento State Hornets at Central Michigan Chippewas",
+      "shortName": "SAC @ CMU",
+      "date": "2026-11-12T00:30Z",
       "state": "pre",
-      "status": "11/10 - 7:00 PM EST",
+      "status": "11/11 - 7:30 PM EST",
       "completed": false,
       "home": {
-        "id": "189",
-        "abbr": "BGSU",
-        "name": "Bowling Green Falcons",
+        "id": "2117",
+        "abbr": "CMU",
+        "name": "Central Michigan Chippewas",
         "score": "0"
       },
       "away": {
-        "id": "2309",
-        "abbr": "KENT",
-        "name": "Kent State Golden Flashes",
+        "id": "16",
+        "abbr": "SAC",
+        "name": "Sacramento State Hornets",
         "score": "0"
       }
     },
     {
-      "id": "401866460",
-      "name": "Ohio Bobcats at Miami (OH) RedHawks",
-      "shortName": "OHIO @ M-OH",
-      "date": "2026-11-11T01:00Z",
+      "id": "401866463",
+      "name": "Massachusetts Minutemen at Toledo Rockets",
+      "shortName": "MASS @ TOL",
+      "date": "2026-11-12T00:30Z",
       "state": "pre",
-      "status": "11/10 - 8:00 PM EST",
+      "status": "11/11 - 7:30 PM EST",
       "completed": false,
       "home": {
-        "id": "193",
-        "abbr": "M-OH",
-        "name": "Miami (OH) RedHawks",
+        "id": "2649",
+        "abbr": "TOL",
+        "name": "Toledo Rockets",
         "score": "0"
       },
       "away": {
-        "id": "195",
-        "abbr": "OHIO",
-        "name": "Ohio Bobcats",
+        "id": "113",
+        "abbr": "MASS",
+        "name": "Massachusetts Minutemen",
         "score": "0"
       }
     }
