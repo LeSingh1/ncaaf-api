@@ -1,69 +1,48 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261111",
-  "count": 3,
+  "date": "20261112",
+  "count": 2,
   "games": [
     {
-      "id": "401866461",
-      "name": "Buffalo Bulls at Ball State Cardinals",
-      "shortName": "BUFF @ BALL",
-      "date": "2026-11-12T00:30Z",
+      "id": "401862824",
+      "name": "Memphis Tigers at South Florida Bulls",
+      "shortName": "MEM @ USF",
+      "date": "2026-11-13T01:00Z",
       "state": "pre",
-      "status": "11/11 - 7:30 PM EST",
+      "status": "11/12 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2050",
-        "abbr": "BALL",
-        "name": "Ball State Cardinals",
+        "id": "58",
+        "abbr": "USF",
+        "name": "South Florida Bulls",
         "score": "0"
       },
       "away": {
-        "id": "2084",
-        "abbr": "BUFF",
-        "name": "Buffalo Bulls",
+        "id": "235",
+        "abbr": "MEM",
+        "name": "Memphis Tigers",
         "score": "0"
       }
     },
     {
-      "id": "401866462",
-      "name": "Sacramento State Hornets at Central Michigan Chippewas",
-      "shortName": "SAC @ CMU",
-      "date": "2026-11-12T00:30Z",
+      "id": "401869969",
+      "name": "Louisiana Ragin' Cajuns at UL Monroe Warhawks",
+      "shortName": "UL @ ULM",
+      "date": "2026-11-13T02:00Z",
       "state": "pre",
-      "status": "11/11 - 7:30 PM EST",
+      "status": "11/12 - 9:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2117",
-        "abbr": "CMU",
-        "name": "Central Michigan Chippewas",
+        "id": "2433",
+        "abbr": "ULM",
+        "name": "UL Monroe Warhawks",
         "score": "0"
       },
       "away": {
-        "id": "16",
-        "abbr": "SAC",
-        "name": "Sacramento State Hornets",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401866463",
-      "name": "Massachusetts Minutemen at Toledo Rockets",
-      "shortName": "MASS @ TOL",
-      "date": "2026-11-12T00:30Z",
-      "state": "pre",
-      "status": "11/11 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2649",
-        "abbr": "TOL",
-        "name": "Toledo Rockets",
-        "score": "0"
-      },
-      "away": {
-        "id": "113",
-        "abbr": "MASS",
-        "name": "Massachusetts Minutemen",
+        "id": "309",
+        "abbr": "UL",
+        "name": "Louisiana Ragin' Cajuns",
         "score": "0"
       }
     }
