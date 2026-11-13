@@ -1,48 +1,69 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261112",
-  "count": 2,
+  "date": "20261113",
+  "count": 3,
   "games": [
     {
-      "id": "401862824",
-      "name": "Memphis Tigers at South Florida Bulls",
-      "shortName": "MEM @ USF",
-      "date": "2026-11-13T01:00Z",
+      "id": "401858293",
+      "name": "Florida State Seminoles at Pittsburgh Panthers",
+      "shortName": "FSU @ PITT",
+      "date": "2026-11-14T00:00Z",
       "state": "pre",
-      "status": "11/12 - 8:00 PM EST",
+      "status": "11/13 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "58",
-        "abbr": "USF",
-        "name": "South Florida Bulls",
+        "id": "221",
+        "abbr": "PITT",
+        "name": "Pittsburgh Panthers",
         "score": "0"
       },
       "away": {
-        "id": "235",
-        "abbr": "MEM",
-        "name": "Memphis Tigers",
+        "id": "52",
+        "abbr": "FSU",
+        "name": "Florida State Seminoles",
         "score": "0"
       }
     },
     {
-      "id": "401869969",
-      "name": "Louisiana Ragin' Cajuns at UL Monroe Warhawks",
-      "shortName": "UL @ ULM",
-      "date": "2026-11-13T02:00Z",
+      "id": "401858526",
+      "name": "Illinois Fighting Illini at UCLA Bruins",
+      "shortName": "ILL @ UCLA",
+      "date": "2026-11-14T02:00Z",
       "state": "pre",
-      "status": "11/12 - 9:00 PM EST",
+      "status": "11/13 - 9:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2433",
-        "abbr": "ULM",
-        "name": "UL Monroe Warhawks",
+        "id": "26",
+        "abbr": "UCLA",
+        "name": "UCLA Bruins",
         "score": "0"
       },
       "away": {
-        "id": "309",
-        "abbr": "UL",
-        "name": "Louisiana Ragin' Cajuns",
+        "id": "356",
+        "abbr": "ILL",
+        "name": "Illinois Fighting Illini",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856860",
+      "name": "Houston Cougars at Colorado Buffaloes",
+      "shortName": "HOU @ COLO",
+      "date": "2026-11-14T03:15Z",
+      "state": "pre",
+      "status": "11/13 - 10:15 PM EST",
+      "completed": false,
+      "home": {
+        "id": "38",
+        "abbr": "COLO",
+        "name": "Colorado Buffaloes",
+        "score": "0"
+      },
+      "away": {
+        "id": "248",
+        "abbr": "HOU",
+        "name": "Houston Cougars",
         "score": "0"
       }
     }
