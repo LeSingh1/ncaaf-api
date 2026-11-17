@@ -1,28 +1,70 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261115",
-  "count": 1,
+  "date": "20261117",
+  "count": 3,
   "games": [
     {
-      "id": "401856887",
-      "name": "Ole Miss Rebels at Oklahoma Sooners",
-      "shortName": "MISS @ OU",
-      "date": "2026-11-15T18:00Z",
-      "state": "in",
-      "status": "9:26 - 2nd",
+      "id": "401866465",
+      "name": "Eastern Michigan Eagles at Western Michigan Broncos",
+      "shortName": "EMU @ WMU",
+      "date": "2026-11-17T23:00Z",
+      "state": "pre",
+      "status": "11/17 - 6:00 PM EST",
       "completed": false,
       "home": {
-        "id": "201",
-        "abbr": "OU",
-        "name": "Oklahoma Sooners",
-        "score": "14"
+        "id": "2711",
+        "abbr": "WMU",
+        "name": "Western Michigan Broncos",
+        "score": "0"
       },
       "away": {
-        "id": "145",
-        "abbr": "MISS",
-        "name": "Ole Miss Rebels",
-        "score": "7"
+        "id": "2199",
+        "abbr": "EMU",
+        "name": "Eastern Michigan Eagles",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401866464",
+      "name": "Ball State Cardinals at Ohio Bobcats",
+      "shortName": "BALL @ OHIO",
+      "date": "2026-11-18T00:00Z",
+      "state": "pre",
+      "status": "11/17 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "195",
+        "abbr": "OHIO",
+        "name": "Ohio Bobcats",
+        "score": "0"
+      },
+      "away": {
+        "id": "2050",
+        "abbr": "BALL",
+        "name": "Ball State Cardinals",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401866466",
+      "name": "Miami (OH) RedHawks at Kent State Golden Flashes",
+      "shortName": "M-OH @ KENT",
+      "date": "2026-11-18T00:00Z",
+      "state": "pre",
+      "status": "11/17 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2309",
+        "abbr": "KENT",
+        "name": "Kent State Golden Flashes",
+        "score": "0"
+      },
+      "away": {
+        "id": "193",
+        "abbr": "M-OH",
+        "name": "Miami (OH) RedHawks",
+        "score": "0"
       }
     }
   ]
