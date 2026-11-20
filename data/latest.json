@@ -1,27 +1,132 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261119",
-  "count": 1,
+  "date": "20261120",
+  "count": 6,
   "games": [
     {
-      "id": "401862830",
-      "name": "Rice Owls at Temple Owls",
-      "shortName": "RICE @ TEM",
-      "date": "2026-11-20T00:30Z",
+      "id": "401856869",
+      "name": "Iowa State Cyclones at UCF Knights",
+      "shortName": "ISU @ UCF",
+      "date": "2026-11-20T23:00Z",
       "state": "pre",
-      "status": "11/19 - 7:30 PM EST",
+      "status": "11/20 - 6:00 PM EST",
       "completed": false,
       "home": {
-        "id": "218",
-        "abbr": "TEM",
-        "name": "Temple Owls",
+        "id": "2116",
+        "abbr": "UCF",
+        "name": "UCF Knights",
         "score": "0"
       },
       "away": {
-        "id": "242",
-        "abbr": "RICE",
-        "name": "Rice Owls",
+        "id": "66",
+        "abbr": "ISU",
+        "name": "Iowa State Cyclones",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858303",
+      "name": "Clemson Tigers at Duke Blue Devils",
+      "shortName": "CLEM @ DUKE",
+      "date": "2026-11-21T00:30Z",
+      "state": "pre",
+      "status": "11/20 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "150",
+        "abbr": "DUKE",
+        "name": "Duke Blue Devils",
+        "score": "0"
+      },
+      "away": {
+        "id": "228",
+        "abbr": "CLEM",
+        "name": "Clemson Tigers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401866468",
+      "name": "Bowling Green Falcons at Toledo Rockets",
+      "shortName": "BGSU @ TOL",
+      "date": "2026-11-21T00:30Z",
+      "state": "pre",
+      "status": "11/20 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2649",
+        "abbr": "TOL",
+        "name": "Toledo Rockets",
+        "score": "0"
+      },
+      "away": {
+        "id": "189",
+        "abbr": "BGSU",
+        "name": "Bowling Green Falcons",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858529",
+      "name": "Oregon Ducks at Michigan State Spartans",
+      "shortName": "ORE @ MSU",
+      "date": "2026-11-21T01:00Z",
+      "state": "pre",
+      "status": "11/20 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "127",
+        "abbr": "MSU",
+        "name": "Michigan State Spartans",
+        "score": "0"
+      },
+      "away": {
+        "id": "2483",
+        "abbr": "ORE",
+        "name": "Oregon Ducks",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864545",
+      "name": "UTEP Miners at Air Force Falcons",
+      "shortName": "UTEP @ AFA",
+      "date": "2026-11-21T01:00Z",
+      "state": "pre",
+      "status": "11/20 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2005",
+        "abbr": "AFA",
+        "name": "Air Force Falcons",
+        "score": "0"
+      },
+      "away": {
+        "id": "2638",
+        "abbr": "UTEP",
+        "name": "UTEP Miners",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401864542",
+      "name": "New Mexico Lobos at Wyoming Cowboys",
+      "shortName": "UNM @ WYO",
+      "date": "2026-11-21T02:00Z",
+      "state": "pre",
+      "status": "11/20 - 9:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2751",
+        "abbr": "WYO",
+        "name": "Wyoming Cowboys",
+        "score": "0"
+      },
+      "away": {
+        "id": "167",
+        "abbr": "UNM",
+        "name": "New Mexico Lobos",
         "score": "0"
       }
     }
