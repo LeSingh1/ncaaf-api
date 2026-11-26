@@ -1,48 +1,27 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261124",
-  "count": 2,
+  "date": "20261126",
+  "count": 1,
   "games": [
     {
-      "id": "401866470",
-      "name": "Kent State Golden Flashes at Eastern Michigan Eagles",
-      "shortName": "KENT @ EMU",
-      "date": "2026-11-25T00:00Z",
+      "id": "401856879",
+      "name": "TCU Horned Frogs at Texas Tech Red Raiders",
+      "shortName": "TCU @ TTU",
+      "date": "2026-11-27T01:00Z",
       "state": "pre",
-      "status": "11/24 - 7:00 PM EST",
+      "status": "11/26 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2199",
-        "abbr": "EMU",
-        "name": "Eastern Michigan Eagles",
+        "id": "2641",
+        "abbr": "TTU",
+        "name": "Texas Tech Red Raiders",
         "score": "0"
       },
       "away": {
-        "id": "2309",
-        "abbr": "KENT",
-        "name": "Kent State Golden Flashes",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401866471",
-      "name": "Miami (OH) RedHawks at Western Michigan Broncos",
-      "shortName": "M-OH @ WMU",
-      "date": "2026-11-25T00:00Z",
-      "state": "pre",
-      "status": "11/24 - 7:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2711",
-        "abbr": "WMU",
-        "name": "Western Michigan Broncos",
-        "score": "0"
-      },
-      "away": {
-        "id": "193",
-        "abbr": "M-OH",
-        "name": "Miami (OH) RedHawks",
+        "id": "2628",
+        "abbr": "TCU",
+        "name": "TCU Horned Frogs",
         "score": "0"
       }
     }
