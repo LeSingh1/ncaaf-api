@@ -1,27 +1,289 @@
 {
   "sport": "football",
   "league": "college-football",
-  "date": "20261126",
-  "count": 1,
+  "date": "20261127",
+  "count": 13,
   "games": [
     {
-      "id": "401856879",
-      "name": "TCU Horned Frogs at Texas Tech Red Raiders",
-      "shortName": "TCU @ TTU",
-      "date": "2026-11-27T01:00Z",
-      "state": "pre",
-      "status": "11/26 - 8:00 PM EST",
+      "id": "401869930",
+      "name": "App State Mountaineers at South Alabama Jaguars",
+      "shortName": "APP @ USA",
+      "date": "2026-11-27T20:00Z",
+      "state": "in",
+      "status": "Halftime",
       "completed": false,
       "home": {
-        "id": "2641",
-        "abbr": "TTU",
-        "name": "Texas Tech Red Raiders",
+        "id": "6",
+        "abbr": "USA",
+        "name": "South Alabama Jaguars",
+        "score": "10"
+      },
+      "away": {
+        "id": "2026",
+        "abbr": "APP",
+        "name": "App State Mountaineers",
+        "score": "10"
+      }
+    },
+    {
+      "id": "401856759",
+      "name": "Florida Gators at Florida State Seminoles",
+      "shortName": "FLA @ FSU",
+      "date": "2026-11-27T20:30Z",
+      "state": "in",
+      "status": "15:00 - 2nd",
+      "completed": false,
+      "home": {
+        "id": "52",
+        "abbr": "FSU",
+        "name": "Florida State Seminoles",
         "score": "0"
       },
       "away": {
-        "id": "2628",
-        "abbr": "TCU",
-        "name": "TCU Horned Frogs",
+        "id": "57",
+        "abbr": "FLA",
+        "name": "Florida Gators",
+        "score": "7"
+      }
+    },
+    {
+      "id": "401862838",
+      "name": "Temple Owls at Memphis Tigers",
+      "shortName": "TEM @ MEM",
+      "date": "2026-11-27T20:30Z",
+      "state": "in",
+      "status": "13:16 - 2nd",
+      "completed": false,
+      "home": {
+        "id": "235",
+        "abbr": "MEM",
+        "name": "Memphis Tigers",
+        "score": "14"
+      },
+      "away": {
+        "id": "218",
+        "abbr": "TEM",
+        "name": "Temple Owls",
+        "score": "7"
+      }
+    },
+    {
+      "id": "401864549",
+      "name": "North Dakota State Bison at San José State Spartans",
+      "shortName": "NDSU @ SJSU",
+      "date": "2026-11-27T20:30Z",
+      "state": "in",
+      "status": "15:00 - 2nd",
+      "completed": false,
+      "home": {
+        "id": "23",
+        "abbr": "SJSU",
+        "name": "San José State Spartans",
+        "score": "7"
+      },
+      "away": {
+        "id": "2449",
+        "abbr": "NDSU",
+        "name": "North Dakota State Bison",
+        "score": "14"
+      }
+    },
+    {
+      "id": "401858536",
+      "name": "Nebraska Cornhuskers at Iowa Hawkeyes",
+      "shortName": "NEB @ IOWA",
+      "date": "2026-11-27T17:08Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "2294",
+        "abbr": "IOWA",
+        "name": "Iowa Hawkeyes",
+        "score": "31",
+        "winner": true
+      },
+      "away": {
+        "id": "158",
+        "abbr": "NEB",
+        "name": "Nebraska Cornhuskers",
+        "score": "7",
+        "winner": false
+      }
+    },
+    {
+      "id": "401856762",
+      "name": "Mississippi State Bulldogs at Ole Miss Rebels",
+      "shortName": "MSST @ MISS",
+      "date": "2026-11-27T17:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "145",
+        "abbr": "MISS",
+        "name": "Ole Miss Rebels",
+        "score": "41",
+        "winner": true
+      },
+      "away": {
+        "id": "344",
+        "abbr": "MSST",
+        "name": "Mississippi State Bulldogs",
+        "score": "17",
+        "winner": false
+      }
+    },
+    {
+      "id": "401862840",
+      "name": "Tulsa Golden Hurricane at UTSA Roadrunners",
+      "shortName": "TLSA @ UTSA",
+      "date": "2026-11-27T17:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "2636",
+        "abbr": "UTSA",
+        "name": "UTSA Roadrunners",
+        "score": "28",
+        "winner": true
+      },
+      "away": {
+        "id": "202",
+        "abbr": "TLSA",
+        "name": "Tulsa Golden Hurricane",
+        "score": "22",
+        "winner": false
+      }
+    },
+    {
+      "id": "401866472",
+      "name": "Buffalo Bulls at Akron Zips",
+      "shortName": "BUFF @ AKR",
+      "date": "2026-11-27T17:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "2006",
+        "abbr": "AKR",
+        "name": "Akron Zips",
+        "score": "9",
+        "winner": false
+      },
+      "away": {
+        "id": "2084",
+        "abbr": "BUFF",
+        "name": "Buffalo Bulls",
+        "score": "17",
+        "winner": true
+      }
+    },
+    {
+      "id": "401866473",
+      "name": "Toledo Rockets at Ohio Bobcats",
+      "shortName": "TOL @ OHIO",
+      "date": "2026-11-27T17:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "195",
+        "abbr": "OHIO",
+        "name": "Ohio Bobcats",
+        "score": "31",
+        "winner": false
+      },
+      "away": {
+        "id": "2649",
+        "abbr": "TOL",
+        "name": "Toledo Rockets",
+        "score": "34",
+        "winner": true
+      }
+    },
+    {
+      "id": "401864546",
+      "name": "Air Force Falcons at New Mexico Lobos",
+      "shortName": "AFA @ UNM",
+      "date": "2026-11-27T21:30Z",
+      "state": "pre",
+      "status": "11/27 - 4:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "167",
+        "abbr": "UNM",
+        "name": "New Mexico Lobos",
+        "score": "0"
+      },
+      "away": {
+        "id": "2005",
+        "abbr": "AFA",
+        "name": "Air Force Falcons",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856756",
+      "name": "Texas Longhorns at Texas A&M Aggies",
+      "shortName": "TEX @ TA&M",
+      "date": "2026-11-28T00:30Z",
+      "state": "pre",
+      "status": "11/27 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "245",
+        "abbr": "TA&M",
+        "name": "Texas A&M Aggies",
+        "score": "0"
+      },
+      "away": {
+        "id": "251",
+        "abbr": "TEX",
+        "name": "Texas Longhorns",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401858544",
+      "name": "Minnesota Golden Gophers at Wisconsin Badgers",
+      "shortName": "MINN @ WIS",
+      "date": "2026-11-28T00:30Z",
+      "state": "pre",
+      "status": "11/27 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "275",
+        "abbr": "WIS",
+        "name": "Wisconsin Badgers",
+        "score": "0"
+      },
+      "away": {
+        "id": "135",
+        "abbr": "MINN",
+        "name": "Minnesota Golden Gophers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401856880",
+      "name": "West Virginia Mountaineers at Utah Utes",
+      "shortName": "WVU @ UTAH",
+      "date": "2026-11-28T02:00Z",
+      "state": "pre",
+      "status": "11/27 - 9:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "254",
+        "abbr": "UTAH",
+        "name": "Utah Utes",
+        "score": "0"
+      },
+      "away": {
+        "id": "277",
+        "abbr": "WVU",
+        "name": "West Virginia Mountaineers",
         "score": "0"
       }
     }
